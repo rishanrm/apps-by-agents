@@ -1,4 +1,4 @@
-import { mapRange } from '@/utils.js';
+import { mapRange } from './utils.js';
 
 /**
  * Fuses audio and motion data into visual parameters.

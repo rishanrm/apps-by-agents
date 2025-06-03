@@ -1,8 +1,8 @@
-import { AudioProcessor } from '@/audioProcessor.js';
-import { MotionHandler } from '@/motionHandler.js';
-import { FusionLogic } from '@/fusionLogic.js';
-import { CanvasPainter } from '@/canvasPainter.js';
-import { Perlin } from '@/perlin.js';
+import { AudioProcessor } from './audioProcessor.js';
+import { MotionHandler } from './motionHandler.js';
+import { FusionLogic } from './fusionLogic.js';
+import { CanvasPainter } from './canvasPainter.js';
+import { Perlin } from './perlin.js';
 
 window.addEventListener('load', () => {
   const startBtn = document.getElementById('start-btn');

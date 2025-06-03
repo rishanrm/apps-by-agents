@@ -1,4 +1,4 @@
-import { mapRange } from '@/utils.js';
+import { mapRange } from './utils.js';
 
 /**
  * Renders visuals on a canvas using Perlin noise and fused parameters.
